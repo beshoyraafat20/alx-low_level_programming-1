@@ -13,7 +13,7 @@ int main(void)
 {
 int sum;
 
-for (sum = 0; sum <= 10; sum++)
+for (sum = 0; sum < 10; sum++)
 printf("%d", sum);
 
 printf("\n");
